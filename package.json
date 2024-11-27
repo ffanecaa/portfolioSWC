@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ffanecaa.github.io/portfolioReact/",
+  "homepage": "https://ffanecaa.github.io/portfolioSWC/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
